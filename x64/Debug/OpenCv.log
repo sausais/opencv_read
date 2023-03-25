@@ -1,0 +1,3 @@
+﻿  ch1.cpp
+D:\reposvsc\OpenCv\OpenCv\ch1.cpp(31,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCv.vcxproj -> D:\reposvsc\OpenCv\x64\Debug\OpenCv.exe
